@@ -1,1 +1,1 @@
-console.log("Hello, GIT_GZ");
+console.log("Hello! GIT_GZ");
